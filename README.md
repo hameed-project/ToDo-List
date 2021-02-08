@@ -1,2 +1,2 @@
 # ToDo-List
-Implemented simple ToDo list web app using nodeJs and EJS Web application.
+Implemented Simple ToDolist web application using node.js and express.
